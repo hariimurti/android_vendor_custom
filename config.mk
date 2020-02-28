@@ -7,7 +7,3 @@ PRODUCT_PACKAGES += \
     MiRemote \
     ViaBrowser
 
-# product priv-app
-PRODUCT_PACKAGES += \
-    ScreenRecordStubPrebuilt
-
