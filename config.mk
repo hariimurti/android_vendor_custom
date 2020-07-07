@@ -6,8 +6,3 @@ PRODUCT_PACKAGES += \
     MiCalculator \
     MiRemote \
     MiXplorer
-
-ifneq ($(TARGET_GAPPS_FULL), true)
-PRODUCT_PACKAGES += \
-    ViaBrowser
-endif
